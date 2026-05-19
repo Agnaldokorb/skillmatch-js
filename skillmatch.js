@@ -272,12 +272,6 @@ async function iniciarSistema() {
     console.log("\nRecomendacao de estudo:"); // Exibe uma mensagem indicando que a recomendação de estudo será exibida a seguir no console
     console.log(recomendacao); // Exibe a recomendação de estudo gerada com base nas habilidades faltantes mais comuns entre as vagas analisadas no console, incentivando o candidato a focar nos temas mais relevantes para melhorar sua compatibilidade com as vagas de Front-End Junior
 
-    // const vagaBuscada = buscarVagaPorId(vagasCarregadas, 3); // Busca uma vaga específica por ID utilizando a função buscarVagaPorId, que utiliza o método find para encontrar a vaga com o ID correspondente no array de vagas carregadas
-    // if (vagaBuscada) { // Verifica se a vaga foi encontrada, ou seja, se o resultado da função buscarVagaPorId não é undefined
-    //   console.log("\nExemplo de uso do find:"); // Exibe uma mensagem indicando que um exemplo de uso do método find será exibido a seguir no console
-    //   console.log(`Vaga encontrada: ${vagaBuscada.exibirResumo()}`); // Exibe um resumo da vaga encontrada pelo ID 2 utilizando o método exibirResumo da classe Vaga, que retorna uma string com o cargo e a empresa da vaga, demonstrando o uso do método find para buscar uma vaga específica no array de vagas
-    // }
-
     let indice = 0; // Exemplo de uso do while para iterar sobre os resultados de compatibilidade, exibindo o número da análise e o cargo da vaga correspondente, demonstrando o uso do loop while para percorrer um array de resultados
     while (indice < resultados.length) {
       // Enquanto o índice for menor que o comprimento do array de resultados, continua a iteração
