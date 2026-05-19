@@ -232,6 +232,7 @@ async function iniciarSistema() {
       console.log(`Analise #${numeroAnalise}`); // Exibe o número da análise atual no console, indicando qual vaga está sendo analisada no momento
       console.log(`Empresa: ${resultado.vaga.empresa}`); // Exibe o nome da empresa da vaga analisada no console
       console.log(`Cargo: ${resultado.vaga.cargo}`); // Exibe o cargo da vaga analisada no console
+      console.log(`Salário: R$${resultado.vaga.salario}`); // Exibe o salário da vaga analisada no console, formatando o valor com o símbolo de moeda e utilizando a propriedade salario do objeto vaga para obter o valor do salário
       console.log(`Resumo: ${resultado.vaga.exibirResumo()}`); // Exibe um resumo da vaga utilizando o método exibirResumo da classe Vaga, que retorna uma string com o cargo e a empresa da vaga
       console.log(`${resultado.vaga.exibirNivel()}`); // Exibe o nível da vaga utilizando o método exibirNivel da classe VagaFrontEnd, que retorna uma string com o nível da vaga (por exemplo, "Nivel da vaga: Junior")
       console.log(`Compatibilidade: ${resultado.percentual}%`); // Exibe o percentual de compatibilidade calculado para a vaga analisada no console, indicando o quão compatível o candidato é com os requisitos da vaga
