@@ -4,14 +4,14 @@ Simulador de compatibilidade entre perfil de candidato e vagas de Front-End Juni
 
 ## Sobre o projeto
 
-O SkillMatch JS compara as habilidades de uma pessoa candidata com vagas ficticias de Front-End Junior e apresenta:
+O SkillMatch JS compara as habilidades de uma pessoa candidata com vagas fictícias de Front-End Junior e apresenta:
 
 - percentual de compatibilidade por vaga;
 - habilidades encontradas;
 - habilidades faltantes;
-- classificacao da compatibilidade;
-- vaga com maior aderencia;
-- recomendacao de estudo.
+- classificação da compatibilidade;
+- vaga com maior aderência;
+- recomendação de estudo.
 
 ## Grupo de criação do projeto
 
@@ -27,17 +27,17 @@ O SkillMatch JS compara as habilidades de uma pessoa candidata com vagas fictici
 
 Praticar os principais conceitos estudados no modulo:
 
-- logica de programacao;
+- lógica de programacao;
 - tipos de dados;
 - operadores e condicionais;
-- estruturas de repeticao;
-- funcoes e arrow functions;
-- arrays e metodos de array;
+- estruturas de repetição;
+- funções e arrow functions;
+- arrays e métodos de array;
 - objetos e POO;
-- classes, construtor, heranca e this;
+- classes, construtor, herança e this;
 - callback, closure, Promise e async/await.
 
-Tambem exercitar organizacao com Kanban, versionamento com Git/GitHub e comunicacao tecnica no README.
+Também exercitar organização com Kanban, versionamento com Git/GitHub e comunicação técnica no README.
 
 ## Estrutura do projeto
 
@@ -54,25 +54,25 @@ skillmatch-js/
 
 ## Como executar
 
-Voce pode executar de duas formas simples:
+Você pode executar de duas formas simples:
 
-**1. Navegador sem clonar o repositorio**
+**1. Navegador sem clonar o repositório**
 
 - Abra o Chrome.
 - Pressione F12.
 - Abra a aba Console.
-- Cole o conteudo de skillmatch.js.
+- Cole o conteúdo de skillmatch.js.
 - Pressione Enter.
 
-**2. Navegador clonando o repositorio**
+**2. Navegador clonando o repositório**
 
-- Clone o repositorio:
+- Clone o repositório:
   ```bash
   git clone https://github.com/Agnaldokorb/skillMatch-js.git
   ```
 - abra a pasta clonada no VsCode
 - instale a extenção **LIVE SERVER**
-- click com o botão direito do mause sobre **index.html**
+- click com o botão direito do mouse sobre **index.html**
 - selecione **open with live server**
 - na janela do navegador que abrir siga os passos indicados
 
@@ -139,13 +139,13 @@ Exemplos de mensagens de commit:
 
 - feat: cria estrutura inicial do projeto
 - feat: Criada estrutura de pastas e arquivos inicial
-- feat: Adicionada a pagina index ao projeto
+- feat: Adicionada a página index ao projeto
 - feat: Desenvolvido o README e o tarefas-kanban inicial
 - feat: adicionado dados do candidato
 - feat: dados vagas
-- feat: calculo e compatibilidade
-- Fix: retirado codigo comentado na produção
-- fix: apagado comentarios feitos durante a criação do projeto para manter o codigo limpo e organizado
+- feat: cálculo e compatibilidade
+- Fix: retirado código comentado na produção
+- fix: apagado comentários feitos durante a criação do projeto para manter o código limpo e organizado
 - docs: Atualização do README.md 
 
 ## Feramentas ultilizadas
