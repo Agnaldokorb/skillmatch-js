@@ -78,46 +78,46 @@ Voce pode executar de duas formas simples:
 
 ## Requisitos funcionais atendidos
 
-- RF01: objeto candidato com nome, area, habilidades, experiencia e preferencia de modelo de trabalho.
-- RF02: lista com 3 vagas ficticias.
-- RF03: calculo de compatibilidade por vaga.
-- RF04: classificacao em Alta, Media e Baixa compatibilidade com if.
+- RF01: objeto candidato com nome, área, habilidades, experiência e preferência de modelo de trabalho.
+- RF02: lista com 3 vagas fictícias.
+- RF03: cálculo de compatibilidade por vaga.
+- RF04: classificação em Alta, Média e Baixa compatibilidade com if.
 - RF05: listagem de habilidades faltantes por vaga.
-- RF06: identificacao da vaga mais compativel.
-- RF07: recomendacao de estudo com base nas faltas recorrentes.
-- RF08: uso de metodos de array (map, filter, find, every e reduce).
+- RF06: identificação da vaga mais compatível.
+- RF07: recomendação de estudo com base nas faltas recorrentes.
+- RF08: uso de métodos de array (map, filter, find, every e reduce).
 - RF09: classe Vaga.
-- RF10: heranca com classe VagaFrontEnd extends Vaga.
-- RF11: uso de this em metodos da classe.
-- RF12: callback para mensagem de encerramento da analise.
-- RF13: closure para contador de analises.
+- RF10: herança com classe VagaFrontEnd extends Vaga.
+- RF11: uso de this em métodos da classe.
+- RF12: callback para mensagem de encerramento da análise.
+- RF13: closure para contador de análises.
 - RF14: Promise e async/await para simular carregamento de vagas.
 
-## Requisitos tecnicos atendidos
+## Requisitos técnicos atendidos
 
 - VS Code como editor principal.
-- Extensoes recomendadas listadas neste README.
-- Kanban para organizacao de tarefas.
-- Repositorio publico no GitHub com versionamento por commits.
+- Extensões recomendadas listadas neste README.
+- Kanban para organizacão de tarefas.
+- Repositório público no GitHub com versionamento por commits.
 - Uso de branches seguindo um fluxo simplificado.
 
 ### Como a internet funciona (resumo)
 
-A internet conecta dispositivos por meio de redes. Quando abrimos um site, o navegador envia uma requisicao para um servidor, e o servidor responde com os arquivos da aplicacao (HTML, CSS, JavaScript e dados).
+A internet conecta dispositivos por meio de redes. Quando abrimos um site, o navegador envia uma requisição para um servidor, e o servidor responde com os arquivos da aplicação (HTML, CSS, JavaScript e dados).
 
 ### Arquitetura cliente-servidor (resumo)
 
-Neste modelo, o cliente (navegador) solicita informacoes e o servidor responde. Neste projeto, a funcao com Promise simula essa comunicacao ao "buscar" vagas com atraso, como se os dados viessem de um servidor real.
+Neste modelo, o cliente (navegador) solicita informações e o servidor responde. Neste projeto, a função com Promise simula essa comunicação ao "buscar" vagas com atraso, como se os dados viessem de um servidor real.
 
 ### Var, let e const (resumo)
 
-- var: possui escopo de funcao e pode gerar comportamentos inesperados em blocos.
-- let: possui escopo de bloco e permite reatribuicao.
-- const: possui escopo de bloco e nao permite reatribuicao da referencia.
+- var: possui escopo de função e pode gerar comportamentos inesperados em blocos.
+- let: possui escopo de bloco e permite reatribuição.
+- const: possui escopo de bloco e nao permite reatribuição da referência.
 
 No projeto, foi priorizado o uso de let e const.
 
-## Extensoes recomendadas e utilizadas no VS Code
+## Extensões recomendadas e utilizadas no VS Code
 
 - JavaScript (ES6) code snippets.
 - Prettier - Code formatter.
@@ -169,37 +169,37 @@ Colunas utilizadas:
 - Backlog
 - A Fazer
 - Em Andamento
-- Concluido
+- Concluído
 
-## Video de demonstracao
+## Video de demonstração
 
-Video de ate 5 minutos (em grupo) abordando:
+Vídeo de ate 5 minutos (em grupo) abordando:
 
-- objetivo e demonstracao do sistema;
+- objetivo e demonstração do sistema;
 - como executar;
-- organizacao no Kanban;
-- estrategia de branches;
+- organização no Kanban;
+- estratégia de branches;
 - melhorias futuras.
 
-Link do video: **...**
+Link do vídeo: **...**
 
 ## Checklist final de entrega
 
-- [x] Repositorio publico no GitHub
+- [x] Repositório público no GitHub
 - [x] Arquivo skillmatch.js
 - [x] Arquivo README.md
 - [x] Quadro Kanban
 - [x] Objeto candidato
-- [x] Pelo menos 3 vagas ficticias
-- [x] Uso de arrays, objetos, strings, numeros e booleanos
-- [x] Uso de if e operadores logicos/matematicos
+- [x] Pelo menos 3 vagas fictícias
+- [x] Uso de arrays, objetos, strings, números e booleanos
+- [x] Uso de if e operadores lógicos/matemáticos
 - [x] Uso de let e const
 - [x] Uso de while
-- [x] Uso de funcoes e arrow functions
-- [x] Uso de metodos de array (map, filter, find, every e reduce)
+- [x] Uso de funções e arrow functions
+- [x] Uso de métodos de array (map, filter, find, every e reduce)
 - [x] Uso de classe, construtor, heranca e this
 - [x] Uso de callback, closure, Promise e async/await
-- [ ] Video publicado com permissao de leitura por link
+- [ ] Vídeo publicado com permissão de leitura por link
 - [ ] Links enviados no AVA
 
 
