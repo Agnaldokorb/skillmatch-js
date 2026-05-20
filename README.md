@@ -16,8 +16,8 @@ O SkillMatch JS compara as habilidades de uma pessoa candidata com vagas fictíc
 ## Grupo de criação do projeto
 
 - @Agnaldokorb
-- suelentonello85-lab
-- juvarle
+- @suelentonello85-lab
+- @juvarle
 
 ## Professor Front-End "Javascript"
 
