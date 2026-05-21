@@ -2,14 +2,9 @@
 
 ## Backlog
 
-- Validar o texto final do README.
-- Revisar possiveis melhorias de mensagens no console.
-- Criar video de até 5min
 
 ## A Fazer
 
--	Atualizar README
--	Enviar links no AVA
 
 ## Concluido
 
@@ -32,3 +27,8 @@
 - [x] Criar Promise simulada
 - [x] Criar função async/await
 - [x] Testar o código no console
+- [x] Revisar possiveis melhorias de mensagens no console.
+- [X] Validar o texto final do README.
+- [x] Criar video de até 5min
+- [x] Atualizar README
+- [x] Enviar links no AVA

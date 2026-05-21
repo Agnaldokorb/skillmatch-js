@@ -84,8 +84,8 @@ const vagas = [
   ),
 ];
 
+// Função para calcular a compatibilidade entre o candidato e a vaga
 function calcularCompatibilidade(candidatoAtual, vagaAtual) {
-  // Função para calcular a compatibilidade entre o candidato e a vaga
   const habilidadesEncontradas = vagaAtual.requisitos.filter((requisito) =>
     candidatoAtual.habilidades.includes(requisito),
   );

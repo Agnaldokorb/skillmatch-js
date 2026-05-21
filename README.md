@@ -16,7 +16,7 @@ O SkillMatch JS compara as habilidades de uma pessoa candidata com vagas fictíc
 ## Grupo de criação do projeto
 
 - @Agnaldokorb
-- @suelentonello85-lab
+- @suelen-tonello
 - @juvarle
 
 ## Professor Front-End "Javascript"
@@ -49,12 +49,14 @@ skillmatch-js/
 ├── planejamento/
 |   └── tarefas-kanban.md
 └── assets/
-    └── mapa-mental.png
+    ├── mapa-mental.png
+    ├── index.png
+    └── console.png
 ```
 
 ## Como executar
 
-Você pode executar de duas formas simples:
+Você pode executar de duas formas simples: 
 
 **1. Navegador sem clonar o repositório**
 
@@ -181,7 +183,7 @@ Vídeo de ate 5 minutos (em grupo) abordando:
 - estratégia de branches;
 - melhorias futuras.
 
-Link do vídeo: **...**
+Link do vídeo: **https://docs.google.com/videos/d/1AgL5D0Sws4-rThXzZWOn3uPNn7j_eQ6BbNzqB1vqXqA/edit?usp=sharing**
 
 ## Checklist final de entrega
 
