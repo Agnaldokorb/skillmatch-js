@@ -183,7 +183,7 @@ Vídeo de ate 5 minutos (em grupo) abordando:
 - estratégia de branches;
 - melhorias futuras.
 
-Link do vídeo: **https://docs.google.com/videos/d/1AgL5D0Sws4-rThXzZWOn3uPNn7j_eQ6BbNzqB1vqXqA/edit?usp=sharing**
+Link do vídeo: **https://drive.google.com/file/d/13bOcLdUX3CzQ1Puxs5W6DHqAqtoOmlDZ/view?usp=sharing**
 
 ## Checklist final de entrega
 
@@ -201,8 +201,8 @@ Link do vídeo: **https://docs.google.com/videos/d/1AgL5D0Sws4-rThXzZWOn3uPNn7j_
 - [x] Uso de métodos de array (map, filter, find, every e reduce)
 - [x] Uso de classe, construtor, heranca e this
 - [x] Uso de callback, closure, Promise e async/await
-- [ ] Vídeo publicado com permissão de leitura por link
-- [ ] Links enviados no AVA
+- [x] Vídeo publicado com permissão de leitura por link
+- [x] Links enviados no AVA
 
 
 ## Mapa mental do projeto
